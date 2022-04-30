@@ -3,5 +3,5 @@
 int main()
 {
     printf("Hello World!")
-    printf("ni hao")
+    printf("ni hao 吗？")
 }
